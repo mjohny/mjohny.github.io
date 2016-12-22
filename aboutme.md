@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Ph.D Student in Statistics 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am third year Ph.D student in Statistics at Iowa State University. Before coming to ISU, I was at Saint Louis Univesity where I obtained a bachelor's in Mathematics and Chemistry. My research interests are motivated by scientific problems and a desire to apply statistics to better understand scientific phenomena. Right now, I'm working on my Master's project. In it, I apply an assymptoptic anova test for functional data in the context of an ecological study. Besides research and classes, I am an instructor for Stat 101 at ISU. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Contact
+Manju M. Johny 
+Email: mjohny@iastate.edu
