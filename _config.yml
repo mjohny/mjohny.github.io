@@ -25,7 +25,7 @@ description: PhD Student in Statistics
 navbar-links:
   About Me: "aboutme"
   Contact: "contact"
-  CV: "cv"
+  Curriculum Vitae: "cv"
  # Author's home: "http://mjohny.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
