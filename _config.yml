@@ -45,7 +45,7 @@ author:
   email: "mjohny@iastate.edu"
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
-  linkedin: mjohny  # eg. daattali
+  linkedin: "https://www.linkedin.com/in/mjohny"  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -100,7 +100,7 @@ excerpt_length: 50
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
