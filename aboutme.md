@@ -14,6 +14,6 @@ I was born in Kerala, India (Kerala is a southern state in India known for its b
 
 ### Contact 
 
-If you'd like to get in touch, feel free to contact me using any of the links on the bottom of the page! 
+If you'd like to get in touch, feel free to contact me using any of the links on the bottom of the page! You can also reach me by email at mjohny@iastate.edu
 
 
