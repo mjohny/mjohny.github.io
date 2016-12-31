@@ -3,10 +3,6 @@ layout: page
 title: About me
 subtitle: Ph.D Student in Statistics 
 ---
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 
 ### Academic & Professional
 
