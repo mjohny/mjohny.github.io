@@ -10,7 +10,7 @@ Currently, I am a third year Ph.D student in Statistics at Iowa State University
 
 ### Personal
 
-I was born in Kerala, India (Kerala is a southern state in India known for its backwaters and beautiful green landscape). When I was 7, I moved to St. Louis, Missouri with my family. During my highschool and undergraduate years in St. Louis, I developed a passion for mathematics and problem solving. In 2014, I moved to Ames, Iowa to follow this passion and began my graduate studied in Statistics. 
+I was born in Kerala, India (Kerala is a southern state in India known for its backwaters and beautiful green landscape). When I was 7, I moved to St. Louis, Missouri with my family. During my highschool and undergraduate years in St. Louis, I developed a passion for mathematics and problem solving. In 2014, I moved to Ames, Iowa to follow this passion and began my graduate studies in Statistics. 
 
 ### Contact 
 
