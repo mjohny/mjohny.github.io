@@ -2,7 +2,10 @@
 layout: page
 title: About me
 subtitle: Ph.D Student in Statistics 
-bigimg: - /img/big-imgs/aboutme/FullSizeRender-7.jpg
+# Bigimgs 
+bigimg: 
+    - /img/big-imgs/aboutme/FullSizeRender-7.jpg: Maryland (2015)
+    - /img/big-imgs/P1000121.jpg: India (2006)
 ---
 
 ### Academic 
