@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About me
 subtitle: Ph.D Student in Statistics 
 
 # Bigimgs 
