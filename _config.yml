@@ -19,6 +19,8 @@ title: Manju Johny
 # Short description of your site
 description: PhD Student in Statistics
 
+permalink: /home/:title/
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
