@@ -19,7 +19,6 @@ title: Manju Johny
 # Short description of your site
 description: PhD Student in Statistics
 
-permalink: /home/:title/
 
 # --- Navigation bar options --- #
 
@@ -106,7 +105,7 @@ excerpt_length: 50
 timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /home/:title/
 paginate: 5
 
 kramdown:
