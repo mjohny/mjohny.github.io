@@ -31,10 +31,6 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/headshot.jpg"
 
-# Bigimgs 
-bigimg: 
-    - /img/big-imgs/P1000101.jpg: India (2006) 
-    - /img/big-imgs/P1000121.jpg: India (2006)
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
