@@ -2,7 +2,10 @@
 layout: page
 title: Manju M. Johny
 subtitle: Welcome to my website!
+
+# Bigimgs 
 bigimg: 
+    - /img/big-imgs/aboutme/FullSizeRender-7.jpg: Maryland (2015)
 	-/img/big-imgs/home/mountain2.JPG: Colorado (2017)
     -/img/big-imgs/home/mountain1.JPG: Colorado (2017)
     -/img/big-imgs/home/germany.JPG: Berlin, Germany (2016)
