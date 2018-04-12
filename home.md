@@ -5,5 +5,5 @@ subtitle: Welcome to my website!
 
 # Bigimgs 
 bigimg: 
-    - /img/big-imgs/aboutme/FullSizeRender-7.jpg: Maryland (2015)
+    - /img/big-imgs/home/ames1.jpg: Iowa (2014)
 ---
