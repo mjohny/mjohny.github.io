@@ -6,5 +6,5 @@ subtitle: Welcome to my website!
 # Bigimgs 
 bigimg: 
 	- /img/big-imgs/home/ames1.jpg: Iowa
-    - /img/big-imgs/home/ames2.jpg: Iowa (2014)
+    - /img/big-imgs/home/ames2.jpg: Iowa 
 ---
