@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Ph.D Student in Statistics 
-bigimg: - "/img/big-imgs/aboutme/FullSizeRender-7.jpg"
+bigimg: - /img/big-imgs/aboutme/FullSizeRender-7.jpg
 ---
 
 ### Academic 
