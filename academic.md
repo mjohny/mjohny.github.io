@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Ph.D Student in Statistics 
+title: About me: Academic
+subtitle: Ph.D Student in Statistics/Data Scientist  
 
 # Bigimgs 
 bigimg: 
