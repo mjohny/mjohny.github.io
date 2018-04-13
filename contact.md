@@ -2,7 +2,7 @@
 title: Contact Me
 ---
 
-Thanks for visiting my page! If you want to get in touch with me, you can either <a href="mailto:manjujohny@gmail.com">email me</a>, click on any of the links below, or fill out the form below!
+Thanks for visiting my page! If you want to get in touch with me, you can either <a href="mailto:manjujohny@gmail.com">email me</a>, click on any of the links on the bottom of the page, or fill out the form below!
 
 <form action="https://formspree.io/manjujohny@gmail.com" method="POST" class="form" id="contact-form">
   <div class="row">
