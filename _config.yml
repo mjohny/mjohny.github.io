@@ -24,7 +24,6 @@ description: PhD Student in Statistics
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
   About Me: 
     - Academic/Research: "academic"
     - Personal: "personal"
