@@ -28,7 +28,12 @@ navbar-links:
   About Me: 
     - Academic/Research: "academic"
     - Personal: "personal"
-  CV: "https://mjohny.github.io/cv/mjohny_cv.pdf"
+  Projects: 
+    - Master's Creative Component: "https://mjohny.github.io/files/CC.pdf"
+    - Bayesian Project: "https://mjohny.github.io/files/bayes.pdf"
+    - Advanced Bayesian Project: "https://mjohny.github.io/files/dlm.pdf"
+    - Ecological Stats Project: "https://mjohny.github.io/files/turtle.pdf"
+  CV/Resume: "https://mjohny.github.io/files/mjohny_cv.pdf"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
