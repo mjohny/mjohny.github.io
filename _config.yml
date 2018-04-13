@@ -25,7 +25,9 @@ description: PhD Student in Statistics
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me/Contact: "aboutme"
+  About Me: 
+    - Academic/Research: "academic"
+    - Personal: "personal"
   CV: "https://mjohny.github.io/cv/mjohny_cv.pdf"
 
 
