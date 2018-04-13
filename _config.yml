@@ -24,9 +24,10 @@ description: PhD Student in Statistics
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: 
+  About Me/Contact: 
     - Academic/Research: "academic"
     - Personal: "personal"
+    - Contact Me: "contact"
   Projects: 
     - Master's Creative Component: "https://mjohny.github.io/files/CC.pdf"
     - Bayesian Project: "https://mjohny.github.io/files/bayes.pdf"
