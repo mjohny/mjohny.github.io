@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Ph.D Student in Statistics 
+subtitle: Ph.D Student in Statistics/Data Scientist 
 ---
-<img src="/img/big-imgs/home/beach.jpg" title="Maryland (2014)" alt="Maryland (2014)" />
 
 ### Personal
 
