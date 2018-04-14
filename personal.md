@@ -2,15 +2,6 @@
 layout: page
 title: About me
 subtitle: Ph.D Student in Statistics 
-
-# Bigimgs 
-bigimg: 
-    - /img/big-imgs/home/mountain.jpg: Colorado (2017)
-    - /img/big-imgs/home/whitewater.jpg: Colorado (2017)
-    - /img/big-imgs/home/beach.jpg: Maryland (2014)
-    - /img/big-imgs/home/india1.jpg: Kerala, India (2006)
-    - /img/big-imgs/home/ames1.jpg: Ames, Iowa (2014)
-    - /img/big-imgs/home/ames2.jpg: Ames, Iowa (2014)
 ---
 <img src="/img/big-imgs/home/beach.jpg" title="Maryland (2014)" alt="Maryland (2014)" />
 
