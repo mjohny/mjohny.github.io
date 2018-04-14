@@ -13,6 +13,6 @@ bigimg:
 
 ### Welcome to my website!  
 
-Hello, my name is Manju and I'm a Ph.D student in Statistics at Iowa State University. Have a look around my website where I've written a little bit about myself, organized some of my past projects and my [CV](https://mjohny.github.io/files/mjohny_cv.pdf). 
+Hello, my name is Manju and I'm a Ph.D student in Statistics at Iowa State University. Have a look around my website where I've written a little bit about myself, organized some of my past projects, and posted my [CV](https://mjohny.github.io/files/mjohny_cv.pdf). 
 
 If you have any questions or would like to get in touch, feel free to send me an <a href="mailto:manjujohny@gmail.com">email</a>. Thanks for stopping by, and have a great day! 
