@@ -12,7 +12,7 @@ bigimg:
     - /img/big-imgs/home/ames1.jpg: Ames, Iowa (2014)
     - /img/big-imgs/home/ames2.jpg: Ames, Iowa (2014)
 ---
-
+<img src="/img/big-imgs/home/beach.jpg" title="Maryland (2014)" alt="Maryland (2014)" />
 
 ### Personal
 
