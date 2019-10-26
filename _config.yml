@@ -29,6 +29,8 @@ navbar-links:
     - Academic/Research: "academic"
     - Personal: "personal"
     - Contact Me: "contact"
+  Teaching:
+    - STAT 330: "stat330"
   Projects: 
     - Master's Creative Component: "https://mjohny.github.io/files/CC.pdf"
     - Bayesian Project: "https://mjohny.github.io/files/bayes.pdf"
