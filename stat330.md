@@ -6,7 +6,8 @@ subtitle: Probability and Statistics for Computer Science
 
 ### Lecture Notes
 Intro to Probability
-* Basic Probability & Set Theory: [Lecture 1](https://mjohny.github.io/files/lecture1.pdf) [Annotated Lecture 1](https://mjohny.github.io/files/lecture1_completed.pdf)
+* Basic Probability & Set Theory: 
+    * [Lecture 1](https://mjohny.github.io/files/lecture1.pdf) [Annotated Lecture 1](https://mjohny.github.io/files/lecture1_completed.pdf)
 * Combinatorics: [Lecture 2](https://mjohny.github.io/files/lecture2.pdf) [Annotated Lecture 2](https://mjohny.github.io/files/lecture1_completed.pdf)
 * Conditional Probability & Independence: [Lecture 3](https://mjohny.github.io/files/lecture3.pdf) [Annotated Lecture 3](https://mjohny.github.io/files/lecture3_completed.pdf)
 * Bayes Rule: [Lecture 4](https://mjohny.github.io/files/lecture4.pdf) [Annotated Lecture 4](https://mjohny.github.io/files/lecture4_completed.pdf)
