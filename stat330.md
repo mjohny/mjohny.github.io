@@ -38,3 +38,9 @@ Continuous Distributions
 * Central Limit Theorem 
     * [Lecture 16](https://mjohny.github.io/files/lecture16.pdf) 
     * [Google Colab Notebook: CLT](https://colab.research.google.com/drive/1KZB_sP0-MlYEfdzCTAvsjs08aUQvhh46)
+
+Stochastic Process 
+* Stochastic Process & Markov Chain
+    * [Lecture 17](https://mjohny.github.io/files/lecture17.pdf) 
+* Steady-State Markov Chain
+    * [Lecture 18](https://mjohny.github.io/files/lecture18.pdf) 
