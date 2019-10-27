@@ -43,4 +43,4 @@ Stochastic Process
 * Stochastic Process & Markov Chain
     * [Lecture 17](https://mjohny.github.io/files/lecture17.pdf) 
 * Steady-State Markov Chain
-    * [Lecture 18](https://mjohny.github.io/files/lecture18.pdf) 
+    * [Lecture 18](https://mjohny.github.io/files/lecture18.pdf){:target="_blank"} 
