@@ -37,7 +37,7 @@ Continuous Distributions
     * Normal Distribution: [Lecture 15](https://mjohny.github.io/files/lecture15.pdf){:target="_blank"} , [Annotated Lecture 15](https://mjohny.github.io/files/lecture15_completed.pdf){:target="_blank"}  
     * Summary: [Continuous Distributions](https://mjohny.github.io/files/continuous_distributions_summary.pdf){:target="_blank"}
 * Central Limit Theorem 
-    * [Lecture 16](https://mjohny.github.io/files/lecture16.pdf){:target="_blank"}  
+    * [Lecture 16](https://mjohny.github.io/files/lecture16.pdf){:target="_blank"} , [Annotated Lecture 16](https://mjohny.github.io/files/lecture16_completed.pdf){:target="_blank"}  
     * [Google Colab Notebook: CLT](https://colab.research.google.com/drive/1KZB_sP0-MlYEfdzCTAvsjs08aUQvhh46){:target="_blank"} 
 
 Stochastic Process 
