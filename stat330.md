@@ -42,6 +42,7 @@ Continuous Distributions
 
 Stochastic Process 
 * Stochastic Process & Markov Chain
-    * [Lecture 17](https://mjohny.github.io/files/lecture17.pdf){:target="_blank"}  
+    * [Lecture 17](https://mjohny.github.io/files/lecture17.pdf){:target="_blank"} , [Annotated Lecture 17](https://mjohny.github.io/files/lecture17_completed.pdf){:target="_blank"}
+    * [Additional Example](https://mjohny.github.io/files/Markov_Chain_Example.pdf){:target="_blank"} , [Additional Example Solution](https://mjohny.github.io/files/Markov_Chain_Example_Sol.pdf){:target="_blank"}
 * Steady-State Markov Chain
-    * [Lecture 18](https://mjohny.github.io/files/lecture18.pdf){:target="_blank"} 
+    * [Lecture 18](https://mjohny.github.io/files/lecture18.pdf){:target="_blank"} , [Annotated Lecture 18](https://mjohny.github.io/files/lecture18_completed.pdf){:target="_blank"}
