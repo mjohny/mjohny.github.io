@@ -46,3 +46,10 @@ Stochastic Process
     * [Additional Example](https://mjohny.github.io/files/Markov_Chain_Example.pdf){:target="_blank"} , [Additional Example Solution](https://mjohny.github.io/files/Markov_Chain_Example_Sol.pdf){:target="_blank"}
 * Steady-State Markov Chain
     * [Lecture 18](https://mjohny.github.io/files/lecture18.pdf){:target="_blank"} , [Annotated Lecture 18](https://mjohny.github.io/files/lecture18_completed.pdf){:target="_blank"}
+
+Intro to Statistics
+* Introduction
+    * [Lecture 19](https://mjohny.github.io/files/lecture19.pdf){:target="_blank"}
+* Descriptive Statistics 
+    * Numeric: [Lecture 20](https://mjohny.github.io/files/lecture20.pdf){:target="_blank"}
+    * Graphics:
