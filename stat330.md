@@ -36,7 +36,7 @@ Stochastic Process
 * Steady-State Markov Chain: [Lecture 18](https://mjohny.github.io/files/lecture18.pdf){:target="_blank"} , [Annotated Lecture 18](https://mjohny.github.io/files/lecture18_completed.pdf){:target="_blank"}
 
 Intro to Statistics
-* Introduction: [Lecture 19](https://mjohny.github.io/files/lecture19.pdf){:target="_blank"}
+* Intro to Statistics: [Lecture 19](https://mjohny.github.io/files/lecture19.pdf){:target="_blank"} , [Annotated Lecture 19](https://mjohny.github.io/files/lecture19_completed.pdf){:target="_blank"}
 * Descriptive Statistics 
     * Numeric: [Lecture 20](https://mjohny.github.io/files/lecture20.pdf){:target="_blank"}
     * Graphics:
