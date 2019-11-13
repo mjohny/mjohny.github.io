@@ -38,8 +38,8 @@ Stochastic Process
 Intro to Statistics
 * Intro to Statistics: [Lecture 19](https://mjohny.github.io/files/lecture19.pdf){:target="_blank"} , [Annotated Lecture 19](https://mjohny.github.io/files/lecture19_completed.pdf){:target="_blank"}
 * Descriptive Statistics 
-    * Numerical Summaries: [Lecture 20](https://mjohny.github.io/files/lecture20.pdf){:target="_blank"}
-    * Graphical Summaries: [Lecture 21](https://mjohny.github.io/files/lecture21.pdf){:target="_blank"}
+    * Numerical Summaries: [Lecture 20](https://mjohny.github.io/files/lecture20.pdf){:target="_blank"} , [Annotated Lecture 20](https://mjohny.github.io/files/lecture20_completed.pdf){:target="_blank"}
+    * Graphical Summaries: [Lecture 21](https://mjohny.github.io/files/lecture21.pdf){:target="_blank"} , [Annotated Lecture 21](https://mjohny.github.io/files/lecture21_completed.pdf){:target="_blank"}
 * Estimation
-    * Parameter Estimation: [Lecture 22](https://mjohny.github.io/files/lecture22.pdf){:target="_blank"}
+    * Parameter Estimation: [Lecture 22](https://mjohny.github.io/files/lecture22.pdf){:target="_blank"} , [Annotated Lecture 22](https://mjohny.github.io/files/lecture22_completed.pdf){:target="_blank"}
     * Method of Moments & Maximum Likelihood: [Lecture 23](https://mjohny.github.io/files/lecture23.pdf){:target="_blank"}
