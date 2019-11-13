@@ -40,3 +40,5 @@ Intro to Statistics
 * Descriptive Statistics 
     * Numerical Summaries: [Lecture 20](https://mjohny.github.io/files/lecture20.pdf){:target="_blank"}
     * Graphical Summaries: [Lecture 21](https://mjohny.github.io/files/lecture21.pdf){:target="_blank"}
+* Estimation
+    * Parameter Estimation: [Lecture 22](https://mjohny.github.io/files/lecture22.pdf){:target="_blank"}
