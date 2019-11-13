@@ -42,3 +42,4 @@ Intro to Statistics
     * Graphical Summaries: [Lecture 21](https://mjohny.github.io/files/lecture21.pdf){:target="_blank"}
 * Estimation
     * Parameter Estimation: [Lecture 22](https://mjohny.github.io/files/lecture22.pdf){:target="_blank"}
+    * Method of Moments & Maximum Likelihood: [Lecture 23](https://mjohny.github.io/files/lecture23.pdf){:target="_blank"}
