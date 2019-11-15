@@ -43,3 +43,5 @@ Intro to Statistics
 * Estimation
     * Parameter Estimation: [Lecture 22](https://mjohny.github.io/files/lecture22.pdf){:target="_blank"} , [Annotated Lecture 22](https://mjohny.github.io/files/lecture22_completed.pdf){:target="_blank"}
     * Method of Moments & Maximum Likelihood: [Lecture 23](https://mjohny.github.io/files/lecture23.pdf){:target="_blank"}
+* Confidence Intervals
+    * Confidence Intervals: [Lecture 24](https://mjohny.github.io/files/lecture24.pdf){:target="_blank"}
