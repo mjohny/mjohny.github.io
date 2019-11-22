@@ -42,6 +42,6 @@ Intro to Statistics
     * Graphical Summaries: [Lecture 21](https://mjohny.github.io/files/lecture21.pdf){:target="_blank"} , [Annotated Lecture 21](https://mjohny.github.io/files/lecture21_completed.pdf){:target="_blank"}
 * Estimation
     * Parameter Estimation: [Lecture 22](https://mjohny.github.io/files/lecture22.pdf){:target="_blank"} , [Annotated Lecture 22](https://mjohny.github.io/files/lecture22_completed.pdf){:target="_blank"}
-    * Method of Moments & Maximum Likelihood: [Lecture 23](https://mjohny.github.io/files/lecture23.pdf){:target="_blank"} , [Annotated Lecture 23](https://mjohny.github.io/files/lecture23_completed.pdf){:target="_blank"} , [Additional Example](https://mjohny.github.io/files/estimation_solution.pdf){:target="_blank"}
+    * Method of Moments & Maximum Likelihood: [Lecture 23](https://mjohny.github.io/files/lecture23.pdf){:target="_blank"} , [Annotated Lecture 23](https://mjohny.github.io/files/lecture23_completed.pdf){:target="_blank"} , [Additional Example update](https://mjohny.github.io/files/estimation_solution.pdf){:target="_blank"}
 * Confidence Intervals
     * Confidence Intervals: [Lecture 24](https://mjohny.github.io/files/lecture24.pdf){:target="_blank"}
