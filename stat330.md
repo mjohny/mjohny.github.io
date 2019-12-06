@@ -44,4 +44,6 @@ Intro to Statistics
     * Parameter Estimation: [Lecture 22](https://mjohny.github.io/files/lecture22.pdf){:target="_blank"} , [Annotated Lecture 22](https://mjohny.github.io/files/lecture22_completed.pdf){:target="_blank"}
     * Method of Moments & Maximum Likelihood: [Lecture 23](https://mjohny.github.io/files/lecture23.pdf){:target="_blank"} , [Annotated Lecture 23](https://mjohny.github.io/files/lecture23_completed.pdf){:target="_blank"} , [Additional Example](https://mjohny.github.io/files/estimation_solution.pdf){:target="_blank"}
 * Confidence Intervals
-    * Confidence Intervals: [Lecture 24](https://mjohny.github.io/files/lecture24.pdf){:target="_blank"}
+    * Confidence Intervals: [Lecture 24](https://mjohny.github.io/files/lecture24.pdf){:target="_blank"} , [Annotated Lecture 24](https://mjohny.github.io/files/lecture24_completed.pdf){:target="_blank"}
+    * Confidence Intervals (difference in groups): [Lecture 25](https://mjohny.github.io/files/lecture25.pdf){:target="_blank"} , [Annotated Lecture 25](https://mjohny.github.io/files/lecture25_completed.pdf){:target="_blank"}
+* Hypothesis Testing: [Lecture 26 - Part 1](https://mjohny.github.io/files/lecture26_Part1.pdf){:target="_blank"} , [LEcture 26 - Part 2](https://mjohny.github.io/files/lecture26_Part2.pdf){:target="_blank"}
