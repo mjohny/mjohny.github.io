@@ -46,4 +46,5 @@ Intro to Statistics
 * Confidence Intervals
     * Confidence Intervals: [Lecture 24](https://mjohny.github.io/files/lecture24.pdf){:target="_blank"} , [Annotated Lecture 24](https://mjohny.github.io/files/lecture24_completed.pdf){:target="_blank"}
     * Confidence Intervals (difference in groups): [Lecture 25](https://mjohny.github.io/files/lecture25.pdf){:target="_blank"} , [Annotated Lecture 25](https://mjohny.github.io/files/lecture25_completed.pdf){:target="_blank"}
-* Hypothesis Testing: [Lecture 26 - Part 1](https://mjohny.github.io/files/lecture26_Part1.pdf){:target="_blank"} , [LEcture 26 - Part 2](https://mjohny.github.io/files/lecture26_Part2.pdf){:target="_blank"}
+* Hypothesis Testing: Lecture 26:[Part 1](https://mjohny.github.io/files/lecture26_Part1.pdf){:target="_blank"} , [Part 2](https://mjohny.github.io/files/lecture26_Part2.pdf){:target="_blank"} , [Annotated Lecture 26](https://mjohny.github.io/files/lecture26_completed.pdf){:target="_blank"}
+* Regression: [Lecture 27](https://mjohny.github.io/files/lecture27_completed.pdf){:target="_blank"} , [Annotated Lecture 27](https://mjohny.github.io/files/lecture27_completed.pdf){:target="_blank"}
